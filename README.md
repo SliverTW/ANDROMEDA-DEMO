@@ -23,15 +23,8 @@ Es muss nichts installiert werden. Spielstände liegen unter `%APPDATA%\ANDROMED
 
 Mehr Hilfe: [ANLEITUNG.md](ANLEITUNG.md)
 
-## 💻 Betriebssysteme
-| System | Status |
-|---|---|
-| **Windows 10/11 (64 Bit)** | ✅ verfügbar – getestet (automatische Tests und Sichtprüfung auf einem Laptop) |
-| Linux (x86_64, auch Steam Deck) | 🔧 in Vorbereitung – noch nicht auf echtem Linux getestet, deshalb noch kein Download |
-| macOS (Intel und Apple Silicon) | 🔧 geplant – noch nicht getestet |
-| Android | 🧪 untersucht – braucht erst Touchsteuerung und Gerätetests |
-
-Details: [PLATTFORMEN.md](PLATTFORMEN.md)
+## 💻 System
+Windows 10 oder 11 (64 Bit). Andere Systeme sind derzeit nicht vorgesehen.
 
 ## 📋 Versionen und Änderungen
 Siehe [CHANGELOG.md](CHANGELOG.md). Ältere Versionen bleiben unter „Releases“ verfügbar.
@@ -40,6 +33,6 @@ Siehe [CHANGELOG.md](CHANGELOG.md). Ältere Versionen bleiben unter „Releases�
 Siehe [BEKANNTE-PROBLEME.md](BEKANNTE-PROBLEME.md).
 
 ## ⚖️ Rechte
-ANDROMEDA (Spiel, Welt, Figuren, Grafiken, Musik) © SliverTW. Für die Demo ist **keine Open-Source-Lizenz** vergeben: Ihr dürft sie herunterladen und spielen; bitte nicht verändert weiterverbreiten oder verkaufen, ohne vorher zu fragen.
+ANDROMEDA (Spiel, Welt, Figuren, Grafiken, Musik) © SliverTW. Für die Demo ist **keine Open-Source-Lizenz** vergeben: Ihr dürft sie herunterladen und spielen. Bitte teilt den Link statt der Datei und veröffentlicht nichts verändert, ohne vorher zu fragen.
 
 Das Spiel nutzt die **Godot Engine** (MIT-Lizenz) und Schriften unter der **SIL Open Font License 1.1** – Hinweise im Ordner [LIZENZEN](LIZENZEN/).
